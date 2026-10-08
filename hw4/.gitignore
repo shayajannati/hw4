@@ -1,0 +1,36 @@
+# --- Course data pack: NEVER commit (place it locally, see README) ---
+data/
+*.db
+*.sqlite
+*.sqlite3
+# product photos copied from data/products/, and the catalogue exported from the database
+frontend/public/products/
+frontend/public/catalogue.json
+
+# --- Secrets / private local config ---
+.env
+.env.*
+!.env.example
+backend/.session_secret
+.claude/
+
+# --- Environments, dependencies, builds, caches ---
+.venv/
+venv/
+node_modules/
+frontend/dist/
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# --- Temporary / generated artifacts ---
+*.tmp
+*.log
+output/*.corrupt-*.json
+output/.*.json
+
+# --- OS / editor junk ---
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

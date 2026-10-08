@@ -1,0 +1,43 @@
+<!-- Original campus-inspired line art for Campus Customs (drawn for this project). -->
+<svg xmlns="http://www.w3.org/2000/svg" width="140" height="720" viewBox="0 0 140 720">
+  <g fill="none" stroke="#00356b" stroke-width="2" stroke-linejoin="round" stroke-linecap="round" opacity="0.55">
+    <!-- Gothic tower (Harkness-inspired silhouette) -->
+    <path d="M56 40 L70 8 L84 40"/>
+    <path d="M52 40 H88 V70 H52 Z"/>
+    <path d="M62 52 Q70 44 78 52 V70 H62 Z"/>
+    <path d="M48 70 H92 V150 H48 Z"/>
+    <path d="M58 86 Q64 78 70 86 V112 H58 Z M70 86 Q76 78 82 86 V112 H70 Z"/>
+    <path d="M44 150 H96 V230 H44 Z"/>
+    <path d="M56 168 Q70 152 84 168 V210 H56 Z"/>
+    <path d="M44 150 L40 140 M96 150 L100 140 M48 70 L44 62 M92 70 L96 62"/>
+    <path d="M60 128 H80 M60 136 H80"/>
+    <!-- Archway / college gate -->
+    <path d="M18 330 V270 Q70 230 122 270 V330"/>
+    <path d="M34 330 V282 Q70 252 106 282 V330"/>
+    <path d="M18 270 L12 262 M122 270 L128 262"/>
+    <path d="M10 330 H130"/>
+    <path d="M54 262 L70 246 L86 262"/>
+    <!-- Shield crest with a "Y" -->
+    <path d="M44 380 H96 V412 Q96 440 70 452 Q44 440 44 412 Z"/>
+    <path d="M58 396 L70 412 L82 396 M70 412 V432"/>
+    <!-- Lancet windows -->
+    <path d="M30 500 V560 H50 V500 Q40 484 30 500 Z"/>
+    <path d="M60 500 V560 H80 V500 Q70 484 60 500 Z"/>
+    <path d="M90 500 V560 H110 V500 Q100 484 90 500 Z"/>
+    <path d="M24 568 H116"/>
+    <!-- Bulldog paw medallion -->
+    <circle cx="70" cy="640" r="26"/>
+    <ellipse cx="70" cy="648" rx="9" ry="7"/>
+    <circle cx="58" cy="634" r="3.5"/><circle cx="65" cy="628" r="3.5"/><circle cx="75" cy="628" r="3.5"/><circle cx="82" cy="634" r="3.5"/>
+  </g>
+  <!-- Ivy vine running down the frame -->
+  <g fill="none" stroke="#3f7d5a" stroke-width="1.6" stroke-linecap="round" opacity="0.45">
+    <path d="M128 0 C116 60 136 120 124 180 C112 240 134 300 122 360 C110 420 134 480 122 540 C110 600 134 660 128 720"/>
+  </g>
+  <g fill="#3f7d5a" opacity="0.35">
+    <path d="M124 60 q-12 -4 -14 6 q10 4 14 -6 Z"/><path d="M130 150 q12 -4 14 6 q-10 4 -14 -6 Z"/>
+    <path d="M124 240 q-12 -4 -14 6 q10 4 14 -6 Z"/><path d="M128 330 q12 -4 14 6 q-10 4 -14 -6 Z"/>
+    <path d="M122 420 q-12 -4 -14 6 q10 4 14 -6 Z"/><path d="M128 510 q12 -4 14 6 q-10 4 -14 -6 Z"/>
+    <path d="M122 600 q-12 -4 -14 6 q10 4 14 -6 Z"/><path d="M128 690 q12 -4 14 6 q-10 4 -14 -6 Z"/>
+  </g>
+</svg>
